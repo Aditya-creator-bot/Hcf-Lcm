@@ -10,11 +10,11 @@
 
 # Need of Program
 
-### As you know, we uses a calculator to make our calcultions fast and accurate, but generally we don't have calculator that can evaluate the Hcf and Lcm of two Nos. That is why, I develop this console c program so that I can calculate this easily without any mistake.
+### As you know, we uses a calculator to make our calculations fast and accurate, but generally we don't have calculator that can evaluate the Hcf and Lcm of two Nos. That is why, I developed this console c program so that I can calculate this easily without any mistake.
 
 # Build Status
 
-### This is console program, it takes two from user and using the function `hcf()` and `lcm()` it is passed and with the use **Euclids Division Lema** the calculation is taken further and as the per the user choice it shows the output.
+### This is a console program, it takes two no. from user and using the function `hcf()` and `lcm()` it is passed and with the use of **Euclids Division Lema** the calculation is taken further and as the per the user choice it shows the output.
 
 # Credits
 
